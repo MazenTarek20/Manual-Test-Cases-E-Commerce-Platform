@@ -131,12 +131,3 @@ Each PDF follows a standard test case template:
 
 **OTP Expiry (WhatsApp Plugin):** Acceptance criteria does not specify OTP expiry behavior, so edge cases around expiry are included and marked for clarification with the development team.
 
----
-
-## 👤 Author
-
-**Mazen Tarek**
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
